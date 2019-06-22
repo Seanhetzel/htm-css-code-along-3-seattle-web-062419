@@ -3,7 +3,7 @@
 
 /* comment */
 
-
+/* type selector */
 p {
   font-size: 1em;
   line-height: 1.5em;
@@ -20,3 +20,5 @@ figcaption {
   color: grey;
   text-align: right;
 }
+
+/* class selector */
