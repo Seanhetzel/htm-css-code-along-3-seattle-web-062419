@@ -7,3 +7,6 @@ selector {
   property: value;
 }
 
+/* type selector */
+p {
+  font-size: 16px;
